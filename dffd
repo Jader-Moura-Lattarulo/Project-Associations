@@ -1,0 +1,21 @@
+=> 
+[[32m#<Account:0x0000562380a922a8[0m
+  id: [34m[1m1[0m,
+  author_id: [34m[1m1[0m,
+  created_at: Fri, 22 Mar 2024 16:18:03.553919000 UTC +00:00,
+  updated_at: Fri, 22 Mar 2024 16:18:03.553919000 UTC +00:00[32m>[0m,
+ [32m#<Account:0x0000562380a92078[0m
+  id: [34m[1m2[0m,
+  author_id: [34m[1m1[0m,
+  created_at: Fri, 22 Mar 2024 16:25:57.522400000 UTC +00:00,
+  updated_at: Fri, 22 Mar 2024 16:25:57.522400000 UTC +00:00[32m>[0m,
+ [32m#<Account:0x0000562380a91df8[0m
+  id: [34m[1m3[0m,
+  author_id: [34m[1m1[0m,
+  created_at: Fri, 22 Mar 2024 16:28:29.711157000 UTC +00:00,
+  updated_at: Fri, 22 Mar 2024 16:28:29.711157000 UTC +00:00[32m>[0m,
+ [32m#<Account:0x0000562380a91bc8[0m
+  id: [34m[1m4[0m,
+  author_id: [34m[1m1[0m,
+  created_at: Fri, 22 Mar 2024 16:29:19.749927000 UTC +00:00,
+  updated_at: Fri, 22 Mar 2024 16:29:19.749927000 UTC +00:00[32m>[0m]
